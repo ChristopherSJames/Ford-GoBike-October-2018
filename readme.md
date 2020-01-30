@@ -6,7 +6,7 @@
 
 This dataset contains information on the 201458 Ford Gobike rides taken in October 2018. Attributes of these rides include duration in seconds, latitude and longitude for the
 start and end locations, whether they were subscribers or just one-off customers, if they were part of a financially restricted program called "bike share for all, and others.
-I also engineered a column that indicated what hour of the day the ride started to aid in my analysis.the link for the dataset can be found
+I also engineered a column that indicated what hour of the day the ride started to aid in my analysis. The link for the dataset can be found
 [Here](https://s3.amazonaws.com/baywheels-data/index.html). The feature documentaion of this dataset can be found [Here](https://www.lyft.com/bikes/bay-wheels/system-data). 
 
 
